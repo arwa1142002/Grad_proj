@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patients>
+    <!-- Liver Cancer Patient Notes -->
+    <patient id="p1">
+        <follow_up_notes>
+            <symptoms>
+                <symptom>Abdominal pain or tenderness, especially in the upper right part</symptom>
+                <symptom>Enlarged liver or palpable mass in the abdomen</symptom>
+                <symptom>Jaundice, Ascites and Swelling in the abdomen or legs</symptom>
+                <symptom>Easy bruising or bleeding</symptom>
+            </symptoms>
+            <pathological_case>Yes</pathological_case>
+        </follow_up_notes>
+    </patient>
+    <patient id="p2">
+        <follow_up_notes>
+            <symptoms>
+                <symptom>Jaundice</symptom>
+                <symptom>Unexplained weight loss</symptom>
+                <symptom>Fever</symptom>
+                <symptom>Abdominal mass or swelling</symptom>
+                <symptom>Enlarged liver</symptom>
+            </symptoms>
+            <pathological_case>Yes</pathological_case>
+        </follow_up_notes>
+    </patient>
+    <patient id="p3">
+        <follow_up_notes>
+            <symptoms>
+                <symptom>Often asymptomatic or mild symptoms</symptom>
+                <symptom>Abdominal pain, especially in the upper right part</symptom>
+                <symptom>Nausea and vomiting</symptom>
+                <symptom>Loss of appetite</symptom>
+            </symptoms>
+            <pathological_case>Yes</pathological_case>
+        </follow_up_notes>
+    </patient>
+    <patient id="p4">
+        <follow_up_notes>
+            <symptoms>
+                <symptom>Abdominal pain or tenderness, especially in the upper right part</symptom>
+                <symptom>Enlarged liver or palpable mass in the abdomen</symptom>
+                <symptom>Jaundice, Ascites and Swelling in the abdomen or legs</symptom>
+                <symptom>Easy bruising or bleeding</symptom>
+            </symptoms>
+            <pathological_case>Yes</pathological_case>
+        </follow_up_notes>
+    </patient>
+    <patient id="p5">
+        <follow_up_notes>
+            <symptoms>
+                <symptom>Jaundice</symptom>
+                <symptom>Fever</symptom>
+                <symptom>Abdominal mass or swelling</symptom>
+            </symptoms>
+            <pathological_case>Yes</pathological_case>
+        </follow_up_notes>
+    </patient>
+    
+    <!-- Normal Patient Notes -->
+    <patient id="p6">
+        <follow_up_notes>
+            <symptoms>
+                <symptom>No specific symptoms related to liver cancer</symptom>
+            </symptoms>
+            <pathological_case>No</pathological_case>
+        </follow_up_notes>
+    </patient>
+    <patient id="p7">
+        <follow_up_notes>
+            <symptoms>
+                <symptom>No specific symptoms related to liver cancer</symptom>
+            </symptoms>
+            <pathological_case>No</pathological_case>
+        </follow_up_notes>
+    </patient>
+    <patient id="p8">
+        <follow_up_notes>
+            <symptoms>
+                <symptom>No specific symptoms related to liver cancer</symptom>
+            </symptoms>
+            <pathological_case>No</pathological_case>
+        </follow_up_notes>
+    </patient>
+    <patient id="p9">
+        <follow_up_notes>
+            <symptoms>
+                <symptom>No specific symptoms related to liver cancer</symptom>
+            </symptoms>
+            <pathological_case>No</pathological_case>
+        </follow_up_notes>
+    </patient>
+    <patient id="p10">
+        <follow_up_notes>
+            <symptoms>
+                <symptom>No specific symptoms related to liver cancer</symptom>
+            </symptoms>
+            <pathological_case>No</pathological_case>
+        </follow_up_notes>
+    </patient>
+</patients>
